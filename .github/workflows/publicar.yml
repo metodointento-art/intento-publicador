@@ -1,0 +1,47 @@
+# Publica os posts da fila na hora marcada. Roda de hora em hora, no minuto 37, das 9h37 às 22h37
+# de Brasília (UTC-3). O post que vence nos próximos 75 minutos espera a hora e sai.
+# O minuto 37 foge da virada da hora, quando o agendador do GitHub mais atrasa.
+name: publicar
+
+on:
+  schedule:
+    - cron: "37 0,1,12-23 * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "publicar (o que vence agora) ou checar (confere tudo sem publicar)"
+        type: choice
+        options: [publicar, checar]
+        default: checar
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publicar ou checar
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          MODO: ${{ github.event.inputs.modo }}
+        run: |
+          if [ "$MODO" = "checar" ]; then
+            python publicar.py --checar
+          else
+            python publicar.py
+          fi

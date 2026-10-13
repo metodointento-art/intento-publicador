@@ -1,0 +1,26 @@
+# Renova o token do Instagram toda segunda às 10h17 de Brasília. O token de longa duração vale 60 dias,
+# e cada renovação recomeça a contagem. O GH_PAT_SECRETS é um token do GitHub de escopo mínimo
+# (só este repositório, permissão "Secrets: leitura e escrita"), porque o GITHUB_TOKEN não grava secrets.
+name: renovar-token
+
+on:
+  schedule:
+    - cron: "17 13 * * 1"
+  workflow_dispatch:
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renovar e regravar o secret
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT_SECRETS }}
+        run: |
+          set -euo pipefail
+          resposta=$(curl -sS --fail-with-body "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
+          novo=$(printf '%s' "$resposta" | python3 -c "import sys, json; print(json.load(sys.stdin)['access_token'])")
+          echo "::add-mask::$novo"
+          dias=$(printf '%s' "$resposta" | python3 -c "import sys, json; print(int(json.load(sys.stdin)['expires_in']) // 86400)")
+          gh secret set IG_ACCESS_TOKEN --body "$novo" --repo "$GITHUB_REPOSITORY"
+          echo "Token do Instagram renovado. Vale por mais $dias dias." >> "$GITHUB_STEP_SUMMARY"
