@@ -423,6 +423,12 @@ def main():
     a = ap.parse_args()
 
     fila = ler_fila(a.fila)
+    agora = dt.datetime.fromisoformat(a.agora) if a.agora else agora_brt()
+    if not a.checar and not any(p.get("status") in ("agendado", "publicando") and quando(p) - agora <= ANTES
+                                for p in fila["posts"]):
+        # Sem post para sair nesta rodada, nem o token é preciso: a rodada termina limpa, sem e-mail de falha.
+        resumo(["nada vence nos próximos %d minutos" % (ANTES.seconds // 60)])
+        return
     if a.simular:
         global NO_ACTIONS
         NO_ACTIONS = False
@@ -434,7 +440,6 @@ def main():
         api = API(token, ig)
     if a.checar:
         sys.exit(1 if checar(api, fila) else 0)
-    agora = dt.datetime.fromisoformat(a.agora) if a.agora else agora_brt()
     linhas, mudancas, falhou = rodar(api, fila, agora, esperar=not a.simular)
     if a.simular:
         for pid, campos in mudancas.items():
