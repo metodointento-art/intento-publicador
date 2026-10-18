@@ -4,7 +4,7 @@
 Publica no Instagram os carrosséis da fila (fila.json), na hora marcada.
 
 Roda no GitHub Actions de hora em hora (.github/workflows/publicar.yml). Em cada rodada:
-  - o post "agendado" que vence nos próximos 75 minutos espera a hora e sai;
+  - o post "agendado" que vence nos próximos 30 minutos espera a hora e sai;
   - o que passou mais de 3 horas do horário vira "atrasado" e não sai sozinho;
   - "pausado" nunca sai. Antes de publicar, a rodada relê a fila no GitHub, e uma
     pausa feita durante a espera vale.
@@ -39,7 +39,7 @@ FILA = os.path.join(AQUI, "fila.json")
 VERSAO = os.environ.get("IG_API_VERSION", "v23.0")
 BASE = "https://graph.instagram.com/" + VERSAO
 BRT = dt.timezone(dt.timedelta(hours=-3))
-ANTES = dt.timedelta(minutes=75)
+ANTES = dt.timedelta(minutes=30)
 DEPOIS = dt.timedelta(hours=3)
 MAX_TENTATIVAS = 3
 MAX_LEGENDA, MAX_HASHTAGS, MAX_ALT, MAX_BYTES = 2200, 30, 1000, 8 * 1024 * 1024

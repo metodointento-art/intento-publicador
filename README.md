@@ -6,8 +6,8 @@ Publica no Instagram (@metodointento) os carrosséis que o agente de criativo ag
 agendar-lote.py (intento-branding)
   ├─ JPEG em pdf-host-meta-01/public/ig/...  → URL pública no Vercel
   └─ post em fila.json, status "agendado"    → push aqui
-publicar.yml (de hora em hora, :37, 9h às 22h de Brasília)
-  └─ publicar.py: o que vence em 75 min espera a hora e sai → status, link e data voltam para fila.json
+publicar.yml (a cada 5 min das 18h às 19h55; de hora em hora no resto do dia)
+  └─ publicar.py: o que vence em 30 min espera a hora e sai → status, link e data voltam para fila.json
 ```
 
 ## A fila (`fila.json`)

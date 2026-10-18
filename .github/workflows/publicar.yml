@@ -1,11 +1,14 @@
-# Publica os posts da fila na hora marcada. Roda de hora em hora, no minuto 37, das 9h37 às 22h37
-# de Brasília (UTC-3). O post que vence nos próximos 75 minutos espera a hora e sai.
-# O minuto 37 foge da virada da hora, quando o agendador do GitHub mais atrasa.
+# Publica os posts da fila na hora marcada (Brasília, UTC-3). O post que vence nos próximos
+# 30 minutos espera a hora e sai; o que chega atrasado sai na rodada seguinte, até 3 horas depois.
+# O agendador do GitHub pula rodadas em repositório pouco ativo (em 17 e 18/10 rodou a cada ~3 h),
+# então o horário das 19h, o do feed, tem rodada a cada 5 minutos das 18h às 19h55. No resto do dia,
+# de hora em hora no minuto 37, que foge da virada da hora.
 name: publicar
 
 on:
   schedule:
-    - cron: "37 0,1,12-23 * * *"
+    - cron: "*/5 21,22 * * *"
+    - cron: "37 0,1,12-20,23 * * *"
   workflow_dispatch:
     inputs:
       modo:
@@ -26,11 +29,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 100
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 

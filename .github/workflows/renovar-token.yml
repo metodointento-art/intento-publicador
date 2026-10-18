@@ -1,11 +1,11 @@
-# Renova o token do Instagram toda segunda às 10h17 de Brasília. O token de longa duração vale 60 dias,
+# Renova o token do Instagram toda quarta às 10h17 de Brasília (a Meta só renova token com mais de 24 horas). O token de longa duração vale 60 dias,
 # e cada renovação recomeça a contagem. O GH_PAT_SECRETS é um token do GitHub de escopo mínimo
 # (só este repositório, permissão "Secrets: leitura e escrita"), porque o GITHUB_TOKEN não grava secrets.
 name: renovar-token
 
 on:
   schedule:
-    - cron: "17 13 * * 1"
+    - cron: "17 13 * * 3"
   workflow_dispatch:
 
 jobs:
