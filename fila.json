@@ -35,7 +35,7 @@
           "alt_text": "Comenta aqui embaixo: CALCULADORA, que eu te mando no direct a nossa calculadora de chance de aprovação."
         }
       ],
-      "status": "erro",
+      "status": "agendado",
       "palavra_chave": "CALCULADORA",
       "pasta": "01 - 19-10 seg - reta final do Enem",
       "aprovado_em": "2026-10-18T22:10:30-03:00",
@@ -43,8 +43,8 @@
       "media_id": null,
       "permalink": null,
       "publicado_em": null,
-      "erro": "GET /17841470809169026/media: API access blocked. (code 200, subcode None)",
-      "tentativas": 1
+      "erro": null,
+      "tentativas": 0
     },
     {
       "id": "2026-10-20-pai-P5-F2-lote1",
