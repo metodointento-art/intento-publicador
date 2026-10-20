@@ -1,8 +1,9 @@
-# Publica os posts da fila na hora marcada (Brasília, UTC-3). O post que vence nos próximos
-# 30 minutos espera a hora e sai; o que chega atrasado sai na rodada seguinte, até 3 horas depois.
-# O agendador do GitHub pula rodadas em repositório pouco ativo (em 17 e 18/10 rodou a cada ~3 h),
-# então o horário das 19h, o do feed, tem rodada a cada 5 minutos das 18h às 19h55. No resto do dia,
-# de hora em hora no minuto 37, que foge da virada da hora.
+# Publica os posts da fila na hora marcada (Brasília, UTC-3). O post que vence nas próximas
+# 4 horas espera a hora e sai; o que chega atrasado sai na rodada seguinte, até 3 horas depois.
+# O agendador do GitHub roda este workflow só umas 4 a 6 vezes por dia, a cada ~3 h, não importa
+# quantos horários o cron pede (medido de 13 a 20/10). Por isso a espera é longa: a rodada da tarde
+# fica aguardando as 19h. O repositório é público desde 20/10 para os minutos do Actions não terem
+# limite. Os horários pedidos abaixo continuam, porque mais pedidos não atrapalham.
 name: publicar
 
 on:
@@ -27,7 +28,7 @@ permissions:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v5
         with:
