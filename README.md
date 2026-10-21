@@ -7,7 +7,7 @@ agendar-lote.py (intento-branding)
   ├─ JPEG em pdf-host-meta-01/public/ig/...  → URL pública no Vercel
   └─ post em fila.json, status "agendado"    → push aqui
 publicar.yml (a cada 5 min das 18h às 19h55; de hora em hora no resto do dia)
-  └─ publicar.py: o que vence em até 4 h espera a hora e sai → status, link e data voltam para fila.json
+  └─ publicar.py: o que vence em até 5h30 espera a hora e sai → status, link e data voltam para fila.json
 ```
 
 ## A fila (`fila.json`)
