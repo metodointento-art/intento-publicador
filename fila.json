@@ -433,6 +433,202 @@
       "publicado_em": "2026-10-27T19:00:32-03:00",
       "erro": null,
       "tentativas": 0
+    },
+    {
+      "id": "2026-10-28-pai-P01-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-10-28T19:00:00-03:00",
+      "legenda": "O adolescente precisa de 8 a 10 horas de sono por noite. E é durante o sono que o estudo do dia se fixa.\n\nA recomendação é da Academia Americana de Medicina do Sono, para quem tem de 13 a 18 anos, todo dia. Dormir essas horas aparece ligado a mais atenção, aprendizado, memória e controle das emoções. Dormir menos, a problemas de atenção e de aprendizado.\n\nDurante o sono, o cérebro reorganiza e fortalece o que ele aprendeu no dia. Por isso, a noite curta leva junto parte do estudo.\n\nE tem um detalhe da idade. Na adolescência, a noite biológica começa mais tarde, e o sono demora mais a chegar. A necessidade de sono continua a mesma.\n\nNos Estados Unidos, só 24% dos alunos do ensino médio dormiram pelo menos 8 horas em noite de aula em 2025.\n\nPerguntar a hora todo dia faz do sono uma cobrança sua. Quando ele entende o que o sono faz pelo estudo, deitar cedo vira decisão dele. Seu papel é explicar o porquê.\n\nNa Intento, o sono entra no plano. Na reta final, ele vem antes da matéria. O mentor ajusta a rotina com o aluno, e o relatório da semana mostra o sono ao lado das horas e dos acertos.\n\nComenta GUIA aqui embaixo que eu te mostro como aprovamos nossos alunos sem perder a saúde mental.\n\nFontes: Paruthi e colegas, Journal of Clinical Sleep Medicine, 2016. Diekelmann e Born, Nature Reviews Neuroscience, 2010. Carskadon, Pediatric Clinics of North America, 2011. CDC, Youth Risk Behavior Survey, 2025.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/01.jpg",
+          "alt_text": "Capa: Pare de perguntar DORMIR. Imagem: Corredor de casa no escuro, visto de onde o pai está, com a porta do quarto fechada e uma linha de luz por baixo dela, em P&B."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/02.jpg",
+          "alt_text": "De 8 a 10 horas por noite. É o que a Academia Americana de Medicina do Sono recomenda para quem tem de 13 a 18 anos. Todo dia, inclusive na reta final."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/03.jpg",
+          "alt_text": "O sono fixa o que ele estudou. Durante o sono, o cérebro reorganiza e fortalece o que ele aprendeu no dia. Por isso, a noite curta leva junto parte do estudo."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/04.jpg",
+          "alt_text": "O relógio do adolescente atrasa. Na adolescência, a noite biológica começa mais tarde, e o sono demora mais a chegar. E a necessidade de sono continua a mesma."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/05.jpg",
+          "alt_text": "Só 1 em cada 4 dorme o suficiente. Nos Estados Unidos, em 2025, só 24% dos alunos do ensino médio dormiram pelo menos 8 horas em noite de aula. A maioria corta justo o que fixa o estudo."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/06.jpg",
+          "alt_text": "Por que parar de perguntar. Perguntar a hora todo dia faz do sono uma cobrança sua. Quando ele entende o que o sono faz pelo estudo, deitar cedo vira decisão dele."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/07.jpg",
+          "alt_text": "Seu papel é explicar o porquê. Conte a ele o que o sono faz pela memória e pela prova. Cuidar do próprio bem-estar é responsabilidade dele, e ela cresce quando ele entende."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/08.jpg",
+          "alt_text": "Na Intento, o sono entra no plano. Na reta final, o sono vem antes da matéria. O mentor ajusta a rotina com ele, e o relatório da semana mostra o sono ao lado dos acertos."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/01-28-10-qua-sono-sem-cobranca/09.jpg",
+          "alt_text": "Comenta aqui embaixo: GUIA, que eu te mostro como aprovamos nossos alunos sem perder a saúde mental."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "GUIA",
+      "pasta": "01 - 28-10 qua - sono sem cobranca",
+      "aprovado_em": "2026-10-28T17:16:04-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-10-29-aluno-A02-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-10-29T19:00:00-03:00",
+      "legenda": "Técnica de respiração que você nunca treinou dificilmente aparece na hora da prova. Ela precisa chegar pronta no domingo.\n\nNum estudo de Stanford publicado em 2023, 108 adultos fizeram, por um mês, 5 minutos por dia de uma de três técnicas de respiração ou de meditação. O suspiro cíclico se destacou: o humor melhorou mais do que na meditação, e a respiração ficou mais lenta. A ansiedade caiu nos dois grupos, num nível parecido.\n\nO suspiro cíclico é simples. Puxe o ar pelo nariz, puxe mais um pouco no fim, e solte devagar pela boca até esvaziar. Repita por 5 minutos.\n\nO estudo foi pequeno e durou quatro semanas, e os autores dizem isso. Por isso vale treinar desde hoje, num momento calmo, em vez de estrear a técnica no domingo.\n\nNervosismo antes do Enem é normal. Se a ansiedade não passa, ou o sono some, procure um psicólogo.\n\nSalva para treinar hoje à noite, e manda para quem vai fazer o Enem com você.\n\nComenta ROTINA que eu te mando a série gratuita sobre como montar a rotina de estudos. São quatro vídeos, um por pilar.\n\nFonte: Balban e colegas, \"Brief structured respiration practices enhance mood and reduce physiological arousal\", Cell Reports Medicine, 2023.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/01.jpg",
+          "alt_text": "Capa: O exercício de 5 minutos ACALMA. Imagem: ."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/02.jpg",
+          "alt_text": "Técnica nova não estreia na prova. No dia, o nervosismo aperta e a técnica que você nunca treinou some da cabeça. Por isso a respiração entra antes, todo dia, por 5 minutos."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/03.jpg",
+          "alt_text": "01 Stanford comparou 3 respirações. Num estudo de 2023, 108 adultos fizeram 5 minutos por dia, durante um mês, de uma de três respirações ou de meditação. Uma se saiu melhor. Imagem: Os quatro grupos do estudo de 2023: 108 adultos, 5 minutos por dia, durante 28 dias."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/04.jpg",
+          "alt_text": "02 O suspiro cíclico. Puxe o ar pelo nariz, puxe mais um pouco no fim, e solte devagar pela boca, até esvaziar. Repita por 5 minutos. O resultado tem número. Imagem: Um ciclo do suspiro cíclico: puxe pelo nariz, puxe mais um pouco, solte devagar pela boca."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/05.jpg",
+          "alt_text": "03 Humor melhor, respiração mais lenta. Com o suspiro, o humor melhorou mais que na meditação, e a respiração ficou mais lenta. A ansiedade caiu parecido nos dois. O que pesa é a frequência."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/06.jpg",
+          "alt_text": "Treine agora, use no domingo. São 5 minutos por dia até o Enem, num horário fixo. No domingo, o corpo já conhece o caminho. Se a ansiedade não passa, procure um psicólogo."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/02-29-10-qui-respiracao-antes-da-prova/07.jpg",
+          "alt_text": "Quer encaixar isso na rotina até o Enem? Comenta ROTINA. Eu te mando a série gratuita sobre como montar a rotina de estudos."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "ROTINA",
+      "pasta": "02 - 29-10 qui - respiracao antes da prova",
+      "aprovado_em": "2026-10-28T17:16:04-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-10-30-pai-P03-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-10-30T19:00:00-03:00",
+      "legenda": "Na reta final, é comum gastar a hora no que ele já domina. Dá sensação de avanço, e muda pouco a nota.\n\nEle refaz a lista de genética pela terceira vez, porque acerta tudo. Vinte questões, vinte acertos. E a estequiometria, que derruba metade das questões dele, fica para depois. Uma revisão em que ele acerta tudo só confirmou o que já estava firme.\n\nCada hora rende mais ponto no assunto que cai muito e que ele ainda erra. Os erros dos últimos simulados, separados por assunto, mostram qual é. Quando ele aprende a ler o próprio simulado, escolhe sozinho o que vem primeiro.\n\nNa Intento, o app mostra quanto ele domina de cada matéria. E o mentor ajusta o plano da semana com ele.\n\nComenta CALCULADORA aqui embaixo que eu te mando no direct a calculadora da chance de aprovação do seu filho em medicina. Ela mostra onde ele está e o que mais pesa na preparação.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/01.jpg",
+          "alt_text": "Capa: Seu filho acerta tudo E A NOTA?. Imagem: Folha de exercícios com todas as questões marcadas como certas, vista de cima, em P&B."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/02.jpg",
+          "alt_text": "Estudar o que já sabe dá prazer. Refazer a lista de genética que ele já acerta dá sensação de avanço, e na reta final ela vale muito. Só que o ponto novo vem de outro lugar."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/03.jpg",
+          "alt_text": "01 Acertar tudo só confirma o que sabe. Uma revisão que termina sem nenhum erro mostrou o que já estava firme. A nota sobe onde ele ainda erra, de preferência no que cai muito."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/04.jpg",
+          "alt_text": "02 O que mais cai e ele ainda erra. É onde cada hora rende mais ponto. Se estequiometria aparece muito e ainda derruba metade das questões dele, ela vem antes do favorito. O simulado mostra qual é."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/05.jpg",
+          "alt_text": "03 O simulado aponta o lugar. Os erros dos últimos simulados, separados por assunto, mostram onde a hora rende mais. Quando ele aprende a ler o próprio simulado, escolhe sozinho o que vem primeiro."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/06.jpg",
+          "alt_text": "Na Intento, o acerto vem por matéria. O app mostra quanto ele domina de cada matéria, e o mentor ajusta o plano da semana com ele."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/03-30-10-sex-ele-estuda-o-que-ja-sabe/07.jpg",
+          "alt_text": "Comenta aqui embaixo: CALCULADORA, que eu te mando no direct a calculadora da chance de aprovação do seu filho."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "CALCULADORA",
+      "pasta": "03 - 30-10 sex - ele estuda o que ja sabe",
+      "aprovado_em": "2026-10-28T17:16:04-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-10-31-aluno-A04-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-10-31T19:00:00-03:00",
+      "legenda": "Se amanhã é o seu último simulado completo antes do Enem, ele vale mais depois do gabarito do que durante a prova.\n\nDurante a prova, faça um sinal ao lado de cada resposta marcada sem certeza. Corrija no mesmo dia, enquanto ainda lembra do que pensou. Na quarta, sobra só a resposta.\n\nCada acerto marcado sem certeza volta para a revisão junto com os erros, porque na prova de verdade a sorte pode não se repetir. E em cada questão revisada, explique por que cada alternativa errada está errada. É um bom treino do jeito da banca.\n\nO print é do app da Intento, numa conta de demonstração. Lá o caderno de erros guarda o tipo de cada erro, e o mentor ajusta o plano da semana pelo tipo que mais pesa.\n\nSalva para usar amanhã à noite, e manda para quem faz simulado com você.\n\nComenta ROTINA que eu te mando a série gratuita sobre como montar a rotina de estudos. São quatro vídeos, um por pilar.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/01.jpg",
+          "alt_text": "Capa: Por que o simulado SUA NOTA. Imagem: Cartão-resposta preenchido sob a luz da luminária, à noite, com a caneta transparente."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/02.jpg",
+          "alt_text": "Cinco horas de prova, zero de correção. É comum fechar o simulado, olhar a nota e ir dormir. A nota é o que menos ensina. O que ensina está nas questões, e tem prazo."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/03.jpg",
+          "alt_text": "01 Marque a certeza antes do gabarito. Na prova, faça um sinal ao lado de cada resposta marcada sem certeza. Leva segundos. Sem ele, o gabarito esconde metade da história."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/04.jpg",
+          "alt_text": "02 Corrija no mesmo dia. À noite, você ainda lembra do que pensou em cada questão. Na quarta, sobra só a resposta, e o porquê do erro some. Comece pelos sinais."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/05.jpg",
+          "alt_text": "03 Acertou no chute? Conte como erro. Cada acerto marcado sem certeza volta para a revisão, junto com os erros. Na prova de verdade, a sorte pode não se repetir. Falta olhar as alternativas."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/06.jpg",
+          "alt_text": "04 Por que as outras estão erradas?. Em cada questão revisada, explique por que cada alternativa errada está errada. É um bom treino do jeito da banca. E o erro precisa de um lugar."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/07.jpg",
+          "alt_text": "Na Intento, o erro vai pro caderno. No app, cada erro entra no caderno de erros com o tipo dele, e o mentor ajusta o plano da semana pelo tipo que mais pesa. Imagem: A roda de tipos de erro do app (atenção, interpretação, recordação e lacuna), conta de demonstração."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/04-31-10-sab-ultimo-simulado/08.jpg",
+          "alt_text": "Quer montar a semana depois do simulado? Comenta ROTINA. Eu te mando a série gratuita sobre como montar a rotina de estudos."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "ROTINA",
+      "pasta": "04 - 31-10 sab - ultimo simulado",
+      "aprovado_em": "2026-10-28T17:16:04-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
     }
   ]
 }
