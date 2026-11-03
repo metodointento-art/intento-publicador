@@ -629,6 +629,186 @@
       "publicado_em": "2026-10-31T19:00:47-03:00",
       "erro": null,
       "tentativas": 0
+    },
+    {
+      "id": "2026-11-04-aluno-A06-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-11-04T19:00:00-03:00",
+      "legenda": "No Enem, a pergunta quase sempre vem depois do texto. Ler na ordem faz você atravessar o texto sem saber o que procurar.\n\nInverta. Leia primeiro o comando, a frase que pede a resposta, logo antes das alternativas. Repare em palavras como \"exceto\" e \"principalmente\", que mudam a questão.\n\nDepois leia o texto já procurando a resposta. E, antes de olhar as opções, responda com as suas palavras. Só então procure a alternativa que diz o mesmo. A alternativa que só parece certa perde força.\n\nEsse jeito de ler pede prática. Use nas questões desta semana, para chegar no domingo sem precisar pensar nele.\n\nComenta CALCULADORA aqui embaixo que eu te mando no direct a nossa calculadora de chance de aprovação em medicina. Ela mostra onde você está e o que mais pesa na sua preparação.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/01.jpg",
+          "alt_text": "Capa: Pare de ler a questão ORDEM. Imagem: Desenho de uma questão impressa, com o texto em barras cinza, o comando em destaque e as cinco alternativas, e uma seta que sobe do comando para o começo do texto."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/02.jpg",
+          "alt_text": "Texto longo antes da pergunta. Quase toda questão do Enem começa com um texto e só no fim diz o que quer."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/03.jpg",
+          "alt_text": "Leia o comando primeiro. É a frase logo antes das alternativas. Palavras como \"exceto\" e \"principalmente\" decidem a questão. Imagem: A questão em três passos: 1, comece pelo comando; 2, depois, o texto; 3, responda antes das alternativas."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/04.jpg",
+          "alt_text": "Leia o texto procurando a resposta. Com a pergunta na cabeça, o trecho que importa aparece mais rápido, e o resto passa leve."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/05.jpg",
+          "alt_text": "Tape as alternativas e responda. Responda com as suas palavras antes de ver as opções. Depois ache a alternativa que diz o mesmo. A que só parece certa perde força."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/06.jpg",
+          "alt_text": "Treine até domingo. Use nas questões desta semana. Na prova, com o tempo correndo, fica difícil mudar o jeito de ler."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/06-04-11-qua-ler-a-questao-pelo-fim/07.jpg",
+          "alt_text": "Comenta aqui embaixo: CALCULADORA, que eu te mando no direct a nossa calculadora de chance de aprovação."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "CALCULADORA",
+      "pasta": "06 - 04-11 qua - ler a questao pelo fim",
+      "aprovado_em": "2026-11-03T13:45:52-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-11-05-aluno-A08-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-11-05T19:00:00-03:00",
+      "legenda": "A competência 5 da redação vale 200 pontos, e a cartilha do Enem 2026 diz o que a proposta de intervenção precisa ter.\n\nSão cinco elementos. A ação, que a cartilha chama de elemento essencial. O agente, quem tem competência para executar. O meio, o modo de fazer. O efeito, o que a ação deve alcançar. E o detalhamento, uma informação a mais sobre um deles, como um exemplo.\n\nA cartilha também separa proposta de simples constatação. E proposta que desrespeita os direitos humanos tira zero nessa competência.\n\nNo domingo, antes de passar a limpo, confira a sua conclusão contra essa lista.\n\nComenta CALCULADORA aqui embaixo que eu te mando no direct a nossa calculadora de chance de aprovação em medicina. Ela mostra onde você está e o que mais pesa na sua preparação.\n\nFontes: Inep, \"A redação do Enem 2026: cartilha do participante\", páginas 35 a 38. Inep, Edital nº 64, de 21 de maio de 2026, item 14.5.1.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/01.jpg",
+          "alt_text": "Capa: 5 coisas que valem 200 pontos REDAÇÃO. Imagem: ."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/02.jpg",
+          "alt_text": "A competência 5 vale 200 pontos. A cartilha de 2026 lista cinco elementos na proposta de intervenção. Um deles é o essencial."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/03.jpg",
+          "alt_text": "A ação é o essencial. A ação é uma medida concreta para o problema. Dizer que ele existe não conta como proposta."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/04.jpg",
+          "alt_text": "Quem, como e para quê."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/05.jpg",
+          "alt_text": "O detalhamento. Uma informação a mais sobre um dos elementos, como um exemplo. E sem desrespeitar os direitos humanos, senão a competência zera."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/06.jpg",
+          "alt_text": "Os cinco numa frase. Exemplo com um tema inventado, só para mostrar os cinco juntos."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/08-05-11-qui-cinco-elementos-da-proposta/07.jpg",
+          "alt_text": "Comenta aqui embaixo: CALCULADORA, que eu te mando no direct a nossa calculadora de chance de aprovação."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "CALCULADORA",
+      "pasta": "08 - 05-11 qui - cinco elementos da proposta",
+      "aprovado_em": "2026-11-03T13:45:52-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-11-06-aluno-A10-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-11-06T19:00:00-03:00",
+      "legenda": "O edital do Enem 2026 lista 8 situações que zeram a redação. Algumas são fáceis de evitar no domingo.\n\nA redação vale até 1.000 pontos: dois corretores dão até 200 em cada uma das cinco competências. Mas algumas situações zeram o texto antes de qualquer competência.\n\nZera a redação que foge totalmente do tema ou que não é dissertativo-argumentativa. Zera a folha em branco e o texto de até 7 linhas. E as linhas copiadas da proposta ou do caderno de questões não contam para esse mínimo.\n\nÉ anulada a redação com nome, assinatura ou rubrica no espaço do texto, com parte deliberadamente desconectada do tema, com impropérios ou desenhos, ou com letra ilegível. Texto escrito predominantemente em língua estrangeira também zera.\n\nSalva para reler no sábado, e manda para quem vai fazer a redação com você.\n\nA imagem da capa é ilustrativa. Fontes: Inep, Edital nº 64, de 21 de maio de 2026, itens 14.5 e 14.7. Inep, \"A redação do Enem 2026: cartilha do participante\", páginas 7 e 8.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/01.jpg",
+          "alt_text": "Capa: 8 jeitos de tirar zero na redação do ENEM. Imagem: Folha de redação em branco numa carteira escolar, com uma caneta em cima, foto ilustrativa."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/02.jpg",
+          "alt_text": "A redação vale até 1.000 pontos. Mas 8 situações zeram o texto antes de qualquer competência."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/03.jpg",
+          "alt_text": "Fugir do tema ou do tipo de texto."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/04.jpg",
+          "alt_text": "7 linhas ou menos é texto insuficiente. E as linhas copiadas da proposta ou do caderno de questões não contam para esse mínimo. Escreva as suas."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/05.jpg",
+          "alt_text": "O que anula a folha."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/06.jpg",
+          "alt_text": "Precisa dar para ler. Letra que dois corretores não conseguem ler anula a redação. Texto em língua estrangeira também zera."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/10-06-11-sex-o-que-zera-a-redacao/07.jpg",
+          "alt_text": "No domingo, confira o tema antes da primeira linha. Salva para reler no sábado, e manda para quem faz a prova com você."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "Salvar e enviar, sem palavra-chave",
+      "pasta": "10 - 06-11 sex - o que zera a redacao",
+      "aprovado_em": "2026-11-03T13:45:52-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
+    },
+    {
+      "id": "2026-11-07-aluno-A11-F2-lote2",
+      "lote": "lote2",
+      "publicar_em": "2026-11-07T19:00:00-03:00",
+      "legenda": "Amanhã é o primeiro dia do Enem. Algumas regras do edital eliminam quem estudou o ano inteiro e se distraiu no detalhe.\n\nOs portões abrem às 12h e fecham às 13h, no horário de Brasília. A prova começa às 13h30, e começar antes da autorização também elimina.\n\nCelular e relógio vão no envelope porta-objetos, debaixo da carteira, com os eletrônicos desligados. Se o aparelho tocar ou apitar, mesmo dentro do envelope, o candidato é eliminado.\n\nAs respostas e a redação vão com caneta esferográfica de tinta preta, fabricada em material transparente.\n\nIr embora da sala antes de duas horas de prova elimina. E o caderno de questões só vai embora com você nos 30 minutos finais.\n\nLeve documento original com foto, como RG, CNH ou passaporte. Documento digital com foto vale no aplicativo oficial ou no gov.br. O edital recomenda levar também o cartão de confirmação.\n\nDurma no horário de sempre. O que você estudou até aqui não muda numa noite.\n\nSalva para conferir antes de sair de casa, e manda para quem faz o Enem amanhã.\n\nFonte: Inep, Edital nº 64, de 21 de maio de 2026, itens 1.7, 8.3.2, 10.1, 11.1.30 e 12.1.\n\n@metodointento",
+      "imagens": [
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/01.jpg",
+          "alt_text": "Capa: O que te tira AMANHÃ. Imagem: Em cima de uma cômoda branca, um documento com foto sem dados legíveis, um envelope plástico transparente e uma caneta, na luz da manhã."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/02.jpg",
+          "alt_text": "Dá para sair eliminado sem errar nada. Cinco regras do edital que pegam quem estudou o ano inteiro."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/03.jpg",
+          "alt_text": "Portão fecha às 13h de Brasília. Abre às 12h. A prova começa às 13h30, e começar antes da autorização também elimina. Imagem: Linha do tempo do domingo, no horário de Brasília: portões abrem às 12h, fecham às 13h e a prova começa às 13h30."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/04.jpg",
+          "alt_text": "Na mesa e no envelope."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/05.jpg",
+          "alt_text": "Fique pelo menos 2 horas. Sair da sala antes de duas horas de prova elimina. E o caderno de questões só vai embora com você nos 30 minutos finais."
+        },
+        {
+          "url": "https://pdf-host-meta-01.vercel.app/ig/lote2/11-07-11-sab-vespera-o-que-elimina/06.jpg",
+          "alt_text": "Conhece alguém que faz o Enem amanhã? Salva e manda este post para essa pessoa agora."
+        }
+      ],
+      "status": "agendado",
+      "palavra_chave": "Salvar e enviar, sem palavra-chave",
+      "pasta": "11 - 07-11 sab - vespera o que elimina",
+      "aprovado_em": "2026-11-03T13:45:52-03:00",
+      "container_id": null,
+      "media_id": null,
+      "permalink": null,
+      "publicado_em": null,
+      "erro": null,
+      "tentativas": 0
     }
   ]
 }
