@@ -1,0 +1,26 @@
+# Testa se o token do Instagram lê as métricas (19/11/2026). Só disparo manual.
+# O log é público, como o repositório: o script escreve "ok" ou o erro de cada métrica, nunca o número.
+name: metricas
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Testar as métricas
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python metricas.py --teste
